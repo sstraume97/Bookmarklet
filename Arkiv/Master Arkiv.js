@@ -1,3 +1,7 @@
+/*
+Marker teksten fra linje 5 til 16, dra deretter teksten til bokmerkeraden.
+*/
+
 javascript:var a = prompt("Hvilke bokmerke ønsker du å aktivere? \n1 = Archive.today \n2 = PreserveTube");
 (function() {
      if (a == 1) {
