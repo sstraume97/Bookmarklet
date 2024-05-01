@@ -44,7 +44,6 @@ javascript:var a = prompt("Hvilke språk ønsker du å søke på? \n1 = Norsk \n
                 s = prompt('Enter search terms for Wikipedia','');
           open('https://sv.wikipedia.org' + (s ? '/w/index.php?title=Special:Search&search=' + encodeURIComponent(s) : ''))
           .focus();
-    } 
       } else if (a == 5) {
         function se(d) {
             return d.selection ? d.selection.createRange().text : d.getSelection()
