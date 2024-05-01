@@ -1,67 +1,30 @@
-/*
-Under utvikling.
-Use this as a bookmarklet by saving it as a web browser bookmark. Then mark a piece of text in a page and click the bookmark.
-*/
+javascript:var a = parseInt(prompt("Søk etter forskning \nHvor vil du søke? \n1 = Anna's Archive DOI \n2 = Anna's Archive fritekst \n3 = Google Scholar \n4 = Z-Library \n5 = Library Genesis \n6 = PubMed"));
 
-javascript:var a = prompt("Hvilke språk ønsker du å søke på? \n1 = Norsk \n2 = Engelsk \n3 = Dansk \n4 = Svensk \n5 = Nynorsk");
-(function() {
-    if (a == 1) {
-      javascript:(function(){
-        var selected_text = '';
-        if (window.getSelection){
-            selected_text = window.getSelection();
-        }
-        else if (document.getSelection){
-            selected_text = document.getSelection();
-        }
-        else if (document.selection){
-            selected_text = document.selection.createRange().text;
-        }
-        else return;
-        window.open('https://annas-archive.org/search?index=journals&q=%22doi:' + selected_text,'DOI-søk Anna's Archive');
-    } else if (a == 2) {
-        function se(d) {
-            return d.selection ? d.selection.createRange().text : d.getSelection()
-            }
-            s = se(document);
-            for (i=0; i<frames.length && (s==null || s==''); i++) 
-                s = se(frames[i].document);
-            if (!s || s=='') 
-                s = prompt('Enter search terms for Wikipedia','');
-          open('https://en.wikipedia.org' + (s ? '/w/index.php?title=Special:Search&search=' + encodeURIComponent(s) : ''))
-          .focus();
-    } else if (a == 3) {
-        function se(d) {
-            return d.selection ? d.selection.createRange().text : d.getSelection()
-            }
-            s = se(document);
-            for (i=0; i<frames.length && (s==null || s==''); i++) 
-                s = se(frames[i].document);
-            if (!s || s=='') 
-                s = prompt('Enter search terms for Wikipedia','');
-          open('https://dk.wikipedia.org' + (s ? '/w/index.php?title=Special:Search&search=' + encodeURIComponent(s) : ''))
-          .focus();
-    } else if (a == 4) {
-        function se(d) {
-            return d.selection ? d.selection.createRange().text : d.getSelection()
-            }
-            s = se(document);
-            for (i=0; i<frames.length && (s==null || s==''); i++) 
-                s = se(frames[i].document);
-            if (!s || s=='') 
-                s = prompt('Enter search terms for Wikipedia','');
-          open('https://sv.wikipedia.org' + (s ? '/w/index.php?title=Special:Search&search=' + encodeURIComponent(s) : ''))
-          .focus();
-      } else if (a == 5) {
-        function se(d) {
-            return d.selection ? d.selection.createRange().text : d.getSelection()
-            }
-            s = se(document);
-            for (i=0; i<frames.length && (s==null || s==''); i++) 
-                s = se(frames[i].document);
-            if (!s || s=='') 
-                s = prompt('Enter search terms for Wikipedia','');
-          open('https://nn.wikipedia.org' + (s ? '/w/index.php?title=Special:Search&search=' + encodeURIComponent(s) : ''))
-          .focus();
-    } 
-})();
+function search() {
+    var selected_text = '';
+    if (window.getSelection){
+        selected_text = window.getSelection();
+    } else if (document.getSelection){
+        selected_text = document.getSelection();
+    } else if (document.selection){
+        selected_text = document.selection.createRange().text;
+    } else return;
+
+    if (a === 1) {
+        window.open('https://annas-archive.org/search?index=journals&q=%22doi:' + selected_text,'DOI Annas Archive');
+    } else if (a === 2) {
+        window.open('https://annas-archive.org/search?q=' + selected_text,'Annas Archive');
+    } else if (a === 3) {
+        window.open('https://scholar.google.com/scholar?q=' + selected_text,'Google Scholar');
+    } else if (a === 4) {
+        window.open('https://singlelogin.re/s?q=' + selected_text,'Z-Library');
+    } else if (a === 5) {
+        window.open('https://libgen.is/search.php?req=' + selected_text,'Library Genesis');
+    } else if (a === 6) {
+        window.open('https://pubmed.ncbi.nlm.nih.gov/?term=' + selected_text,'PubMed');
+    } else {
+        alert("Ugyldig valg. Vennligst velg et tall fra 1 til 6.");
+    }
+}
+
+search();
