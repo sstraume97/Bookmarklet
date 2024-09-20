@@ -66,6 +66,11 @@ Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.
 * [Bookmarklet Creator with Script Includer - Peter Coles (mrcoles.com)](https://mrcoles.com/bookmarklet/)
 * [Bookmarkify.it - Create bookmarklets from your javascript!](https://bookmarkify.it/)
 * **Mye nyttig:** [41 Bookmarklets to Boost Your Productivity | The Tech Basket](https://www.thetechbasket.com/most-useful-bookmarklets/)
+* [Bookmarklets (JavaScript Favelets) (mvps.org)](http://dmcritchie.mvps.org/ie/bookmarklets.htm)
+* [Awesome Bookmarklets (codepen.io)](https://codepen.io/thesturs/pen/xbRomP)
+* [marcobiedermann/awesome-bookmarklets: 🔖 Awesome collection of helpful bookmarklets (github.com)](https://github.com/marcobiedermann/awesome-bookmarklets)
+* [Priyank-Vaghela/Awesome-Bookmarklets: A curated collection of awesome bookmarklets! 🚀 (github.com)](https://github.com/Priyank-Vaghela/Awesome-Bookmarklets/tree/master)
+* [bookmarklet · GitHub Topics](https://github.com/topics/bookmarklet)
 
 ## Eksterne sider - Ikke relatert til bookmarklets
 * [Pastebin.com](https://pastebin.com/)
