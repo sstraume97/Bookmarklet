@@ -1,7 +1,7 @@
 # Om kodearkivet
 **Opprinnelig fra:** [dragon731012 / -WORKING-bookmarklets-and-games](https://github.com/dragon731012/-WORKING-bookmarklets-and-games)
 
-Det er pr. 20.09.2024 noen endringer. Denne siden er lik, med unntak av alt under overskriftene [Om kodearkivet](https://github.com/sstraume97/Bookmarklet/edit/main/README.md#Om kodearkivet) og [Lenker](https://github.com/sstraume97/Bookmarklet/edit/main/README.md#Lenker)
+Det er pr. 20.09.2024 noen endringer. Denne siden er lik, med unntak av alt under overskriftene [Om kodearkivet](https://github.com/sstraume97/Bookmarklet/edit/main/README.md#Om%20kodearkivet) og [Lenker](https://github.com/sstraume97/Bookmarklet/edit/main/README.md#Lenker)
 
 # How to use:
 
