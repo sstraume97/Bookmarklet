@@ -62,6 +62,8 @@ Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.
 * [50+ Most Useful Bookmarklets For Better Productivity](https://www.hongkiat.com/blog/100-useful-bookmarklets-for-better-productivity-ultimate-list/)
 * [Beginner Geek: How to Use Bookmarklets on Any Device](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/)
 * [Top 10 Useful Bookmarklets | Lifehacker](https://lifehacker.com/top-10-useful-bookmarklets-395697)
+* [Bookmarklet Creator with Script Includer - Peter Coles (mrcoles.com)](https://mrcoles.com/bookmarklet/)
+* [Bookmarkify.it - Create bookmarklets from your javascript!](https://bookmarkify.it/)
 
 ## Eksterne sider - Ikke relatert til bookmarklets
 * [Pastebin.com](https://pastebin.com/)
