@@ -65,6 +65,7 @@ Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.
 * [Top 10 Useful Bookmarklets | Lifehacker](https://lifehacker.com/top-10-useful-bookmarklets-395697)
 * [Bookmarklet Creator with Script Includer - Peter Coles (mrcoles.com)](https://mrcoles.com/bookmarklet/)
 * [Bookmarkify.it - Create bookmarklets from your javascript!](https://bookmarkify.it/)
+* **Mye nyttig:** [41 Bookmarklets to Boost Your Productivity | The Tech Basket](https://www.thetechbasket.com/most-useful-bookmarklets/)
 
 ## Eksterne sider - Ikke relatert til bookmarklets
 * [Pastebin.com](https://pastebin.com/)
