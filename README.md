@@ -1,10 +1,3 @@
-# My discord server:
-
-(https://discord.gg/Vd5sJVqVzH)
-
-  ![Discord](http://invidget.switchblade.xyz/Vd5sJVqVzH)
-
-
 # How to use:
 
 For the bookmarklets (The ones without a .html file ending)
@@ -49,3 +42,8 @@ We only made some of these, and we are not responsible for any of them. By using
 If you have any issues or ideas, please tell me in discussions (https://github.com/dragon731012/-WORKING-bookmarklets-and-games/discussions/2).
 
 Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.fetch.com/vvv3/referraltext?code=8B6M1B
+
+# Lenker
+* [sstraume97 / Ego-Menu-Bookmarklets](https://github.com/sstraume97/Ego-Menu-Bookmarklets)
+* [sstraume97 / Bookmarklet / Geeky Bookmarklet Collection.md](https://github.com/sstraume97/Bookmarklet/blob/main/Geeky%20Bookmarklet%20Collection.md)
+* 
