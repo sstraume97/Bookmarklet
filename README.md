@@ -49,8 +49,19 @@ If you have any issues or ideas, please tell me in discussions (https://github.c
 Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.fetch.com/vvv3/referraltext?code=8B6M1B
 
 # Lenker
+## Egne kodearkiv
 * [sstraume97 / Ego-Menu-Bookmarklets](https://github.com/sstraume97/Ego-Menu-Bookmarklets)
 * [sstraume97 / Bookmarklet / Geeky Bookmarklet Collection.md](https://github.com/sstraume97/Bookmarklet/blob/main/Geeky%20Bookmarklet%20Collection.md)
 * [sstraume97 / bookmarklets-1](https://github.com/sstraume97/bookmarklets-1)
 * [sstraume97 / Bookmarklet Maker](https://github.com/sstraume97/bookmarklet-maker)
 * [sstraume97 / about-blanker-html-download](https://github.com/sstraume97/about-blanker-html-download)
+
+## Eksterne sider
+* [Get Bookmarklets](https://getbookmarklets.com/)
+* [r/bookmarklets](https://www.reddit.com/r/bookmarklets/)
+* [50+ Most Useful Bookmarklets For Better Productivity](https://www.hongkiat.com/blog/100-useful-bookmarklets-for-better-productivity-ultimate-list/)
+* [Beginner Geek: How to Use Bookmarklets on Any Device](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/)
+* [Top 10 Useful Bookmarklets | Lifehacker](https://lifehacker.com/top-10-useful-bookmarklets-395697)
+
+## Eksterne sider - Ikke relatert til bookmarklets
+* [Pastebin.com](https://pastebin.com/)
