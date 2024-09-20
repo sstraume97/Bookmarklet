@@ -4,7 +4,7 @@
 Det er pr. 20.09.2024 noen endringer. Denne siden er lik, med unntak av alt under overskriftene [Om kodearkivet](https://github.com/sstraume97/Bookmarklet/tree/main?tab=readme-ov-file#om-kodearkivet) og [Lenker](https://github.com/sstraume97/Bookmarklet/tree/main?tab=readme-ov-file#lenker)
 
 ## Test
-[Master Arkiv](javascript:(function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/66906/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();)
+[Master Arkiv](javascript:(function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/66906/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();))
 
 # How to use:
 
